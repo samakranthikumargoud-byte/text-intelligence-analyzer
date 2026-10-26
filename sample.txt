@@ -1,0 +1,1 @@
+The Text Intelligence Analyzer is a Python command-line utility designed to read any text file, break it down using Python logic, and extract valuable data metrics (like word counts, sentence counts, reading time, keyword frequency, and tone). Think of it as a mini text-mining tool similar to what content management systems or word processors use behind the scenes.
