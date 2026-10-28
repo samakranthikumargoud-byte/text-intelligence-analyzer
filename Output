@@ -1,1 +1,27 @@
+PS C:\Users\HP\OneDrive\Desktop\text intelligence analyzer> & C:\Users\HP\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/HP/OneDrive/Desktop/text intelligence analyzer/main.py"
+==================================================
+      PRJ-09: TEXT INTELLIGENCE ANALYZER      
+==================================================
+
+[INFO] Analyzing 'sample.txt'...
+
+--- DOCUMENT STATISTICS ---
+• Total Characters (with spaces): 367
+• Total Characters (no spaces):   310
+• Total Words:                    58
+• Total Sentences:                2
+• Total Paragraphs:               1
+• Estimated Reading Time:         17.4 seconds
+
+--- INTELLIGENCE INSIGHTS ---
+• Detected Tone / Sentiment:      Neutral / Informational 
+• Top Frequent Keywords (Filtered):
+  - 'text': 2 times
+  - 'python': 2 times
+  - 'word': 2 times
+  - 'counts': 2 times
+  - 'intelligence': 1 times
+==================================================
+PS C:\Users\HP\OneDrive\Desktop\text intelligence analyzer> 
+
 
